@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am a student<br>
+I am a EC student<br>
+I am currently learning full stack development<br>
 
 
 ## 🌐 Socials:
